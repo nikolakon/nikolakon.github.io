@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-# subtitle: Why you'd want to go on a date with me
+title: Nikola Konstantinov
+subtitle: Machine Learning Researcher
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Welcome
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a PhD student at IST Austria, working on machine learning in the group of Prof. Christoph Lampert. I am also part of the ELLIS PhD Program.
 
-What else do you need?
+My research interests lie in the area of trustworthy machine learning, with a focus on robustness and fairness.
 
-### My story
+Links: Google Scholar profile, LinkedIn, a full CV.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+### Papers
+
+To be honest, they are not too many yet.
