@@ -14,7 +14,7 @@ author: Nikola Konstantinov
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://nikolakon.github.io/aboutme"
+  Home: "https://nikolakon.github.io"
   About Me: "aboutme"
   Contact: "contact"
   # Resources:
