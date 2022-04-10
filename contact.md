@@ -7,7 +7,7 @@ subtitle: Machine Learning Researcher
 <h1> Contact </h1>
 <p><b>Email</b>: firstname.secondname@ist.ac.at</p>
 
-<p><b>Address</b>:<.p>
+<b>Address</b>:
 
 <p>Institute of Science and Technology Austria (IST Austria)<br>
 Am Campus 1<br>
