@@ -17,9 +17,9 @@ navbar-links:
   Home: "https://nikolakon.github.io"
   About Me: "aboutme"
   Contact: "contact"
-  # Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Links:
+   - Beautiful Jekyll: "https://beautifuljekyll.com"
+   - Google Analytics Disclaimer: "disclaimer"
 
 # --- Logo --- #
 
