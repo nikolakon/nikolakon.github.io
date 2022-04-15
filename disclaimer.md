@@ -1,3 +1,16 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S4NKCV622B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S4NKCV622B');
+</script>
+</head>
+
+
 This website uses Google Analytics, a web analysis service of Google Inc,
  (1600 Amphitheatre Parkway Mountain View, CA 94043, USA; "Google"). This data protection notice is provided by
  <a href="https://www.intersoft-consulting.de/" target="_blank"> www.intersoft-consulting.de</a>.
@@ -9,10 +22,7 @@ the European Union or in other states party to the Agreement on the European Eco
  full IP address be transmitted to a Google server in the USA and shortened there. The IP address transmitted by your browser in the 
 context of Google Analytics is not merged with other Google data. On behalf of the operator of this website, Google will use this
  information to evaluate your use of the website, to compile reports on website activity and to provide the website operator with
- other services related to website and Internet use. Our legitimate interest in data processing also lies in these purposes. The 
-legal basis for the use of Google Analytics is § 15 para. 3 TMG and Art. 6 para. 1 lit. f GDPR. The data sent by us and linked to cookies,
- user-identifiers (e.g. User-IDs) or advertising-identifiers are automatically deleted after 14 months. Data whose retention period has 
-been reached is automatically deleted once a month. For more information on terms of use and data protection,
+ other services related to website and Internet use. For more information on terms of use and data protection,
  please visit <a href="https://www.google.com/analytics/terms/gb.html" target="_blank"> https://www.google.com/analytics/terms/gb.html</a> or 
 <a href="https://policies.google.com/?hl=en" target="_blank"> https://policies.google.com/?hl=en</a>.
 
