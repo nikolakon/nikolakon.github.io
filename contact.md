@@ -17,11 +17,11 @@ subtitle: Machine Learning Researcher
 </head>
 
 <h1> Contact </h1>
-<p><b>Email</b>: firstname.secondname@ist.ac.at</p>
+<p><b>Email</b>: nikolahristov dot konstantinov at inf.ethz.ch</p>
 
 <b>Address</b>:
 
-<p>Institute of Science and Technology Austria (IST Austria)<br>
-Am Campus 1<br>
-3400 Klosterneuburg<br>
-Austria</p>
+<p>ETH AI Center<br>
+Universitätstrasse 6<br>
+8092 Zürich<br>
+Switzerland</p>
