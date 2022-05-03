@@ -40,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "nikola.konstantinov@ist.ac.at"
+  email: "nikolahristov.konstantinov@inf.ethz.ch"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: nikolakon
@@ -96,7 +96,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Nikola,Konstantinov,IST,ISTA,Austria,ETH,Zurich,Switzerland,machine,learning,trustworthy,robust,fair,PAC,reliable,theory,statistics,Sofia,Bulgaria"
+keywords: "Nikola,Konstantinov,ETH,Zurich,AI,Center,Switzerland,machine,learning,trustworthy,robust,fair,PAC,reliable,theory,statistics,IST,ISTA,Austria,Sofia,Bulgaria"
 
 # --- Colours / background image --- #
 
