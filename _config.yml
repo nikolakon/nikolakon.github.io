@@ -25,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/nikola.JPG"
+avatar: "/assets/img/nikola_2.JPG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -40,11 +40,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "nikolahristov.konstantinov@inf.ethz.ch"
+  email: "nikola.konstantinov@insait.ai"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: nikolakon
-  twitter: NikolaKonstant9
+#  twitter: NikolaKonstant9
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -213,7 +213,7 @@ date_format: "%-d %B, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Zurich"
+timezone: "Europe/Sofia"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
