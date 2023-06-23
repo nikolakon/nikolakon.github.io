@@ -18,7 +18,7 @@ subtitle: Machine Learning Researcher
 
 <h1>About me</h1>
 
-I am an incoming tenure-track faculty member of <a href="https://insait.ai/" target="_black">INSAIT</a>, in Sofia, Bulgaria.
+I am a tenure-track faculty member of <a href="https://insait.ai/" target="_black">INSAIT</a>, in Sofia, Bulgaria.
 
 <p>My research interests lie in the area of <b>trustworthy machine learning</b> and I am especially interested in <b>providing mathematical guarantees</b> for machine learning models.</p>
 
