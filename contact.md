@@ -17,11 +17,10 @@ subtitle: Machine Learning Researcher
 </head>
 
 <h1> Contact </h1>
-<p><b>Email</b>: nikolahristov dot konstantinov at inf.ethz.ch</p>
+<p><b>Email</b>: nikola dot konstantinov at insait.ai</p>
 
 <b>Address</b>:
 
-<p>ETH AI Center<br>
-Universitätstrasse 6<br>
-8092 Zürich<br>
-Switzerland</p>
+<p>INSAIT<br>
+Synergy Tower, Sofia Tech Park <br>
+1784 Sofia, Bulgaria</p>
